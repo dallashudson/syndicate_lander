@@ -1,0 +1,3 @@
+# syndicate_lander
+lander page for syndicate
+This is just a little project using bootstrap stuff to make a landing page for another larger project...
